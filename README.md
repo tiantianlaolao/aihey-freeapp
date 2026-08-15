@@ -1,5 +1,18 @@
 # 教 AI 做出这些小东西
 
+| | | |
+|:---:|:---:|:---:|
+| [<img src="works/08-rose/cover.jpg" width="270" alt="玫瑰">](works/08-rose/) | [<img src="works/29-solar/cover.jpg" width="270" alt="太阳系">](works/29-solar/) | [<img src="works/19-poster/cover.jpg" width="270" alt="你好海报">](works/19-poster/) |
+| **[玫瑰](works/08-rose/)**<br><sub>四万个点开成一朵花</sub> | **[太阳系](works/29-solar/)**<br><sub>点行星看介绍</sub> | **[你好海报](works/19-poster/)**<br><sub>一句话，十四个字</sub> |
+| [<img src="works/01-island/cover.jpg" width="270" alt="海岛">](works/01-island/) | [<img src="works/28-periodic/cover.jpg" width="270" alt="元素周期表">](works/28-periodic/) | [<img src="works/26-motorcycle/cover.jpg" width="270" alt="摩托车 3D">](works/26-motorcycle/) |
+| **[海岛](works/01-island/)**<br><sub>一个数字长出一整座岛</sub> | **[元素周期表](works/28-periodic/)**<br><sub>六轮磨出来的</sub> | **[摩托车 3D](works/26-motorcycle/)**<br><sub>"像哈雷摩托的样子"</sub> |
+| [<img src="works/10-cloth/cover.jpg" width="270" alt="布">](works/10-cloth/) | [<img src="works/21-breakout/cover.jpg" width="270" alt="打砖块">](works/21-breakout/) | [<img src="works/04-drum/cover.jpg" width="270" alt="口袋鼓机">](works/04-drum/) |
+| **[布](works/10-cloth/)**<br><sub>会打褶、会被风吹</sub> | **[打砖块](works/21-breakout/)**<br><sub>两句话</sub> | **[口袋鼓机](works/04-drum/)**<br><sub>声音全是当场合成的</sub> |
+
+<sub>▲ 这里是 9 个，**下面还有 29 个** ↓</sub>
+
+---
+
 **38 个不用装任何环境的网页小作品**，每一个都配一篇文档。文档全部免费，作品也免费拿走。
 
 里面分成两批，**两批的性质完全不同，我们分开说**：
