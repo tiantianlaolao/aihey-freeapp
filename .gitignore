@@ -1,0 +1,8 @@
+# 工作材料，不入库
+_实测截图/
+_*/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
